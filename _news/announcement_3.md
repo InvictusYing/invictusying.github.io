@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Aerosol Optical Depth Imputation work is accepted to [IGARSS 2023][igarss]! :sparkles:
+Aerosol Optical Depth Imputation work is accepted to [IGARSS 2023](https://2023.ieeeigarss.org/index.php])! :sparkles:
 
-[igarss][https://2023.ieeeigarss.org/index.php]
