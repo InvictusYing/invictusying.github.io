@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student @ CU Boulder (Geography)</a>.
+subtitle: <a href='https://www.colorado.edu/geography/zhongying-stephen-wang'>PhD Student @ CU Boulder (Geography)</a>.
 
 profile:
   align: right
