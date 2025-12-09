@@ -2,96 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zhongying Wang
+    - name: Position
+      value: PhD Candidate in Geography
+    - name: Affiliation
+      value: Department of Geography, University of Colorado Boulder
+    - name: Address
+      value: "GUGG 7, 260 UCB, Boulder, CO 80309, USA"
+    - name: Email
+      value: "Zhongying.Wang@colorado.edu"
+    - name: Phone
+      value: "+1 213-281-2483"
+
+- title: Research Interests
+  type: list
+  contents:
+    - GeoAI methods for environmental and public-health applications
+    - High-resolution air-pollution estimation using satellite, ground, and chemical-transport model data
+    - Spatiotemporal deep learning and data fusion for geospatial prediction
+    - Geospatial foundation models and pretrained location encoders
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Geography
+      institution: University of Colorado Boulder, Boulder, CO, USA
+      year: 2021–present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Morteza Karimzadeh
+        - Dissertation focus on GeoAI-enhanced spatiotemporal modeling in public health
+    - title: MS in Spatial Data Science
+      institution: University of Southern California, Los Angeles, CA, USA
+      year: 2019–2021
       description:
-        - Description 1.
-        - Description 2.
+        - Research advisor: Orhun Aydin
+    - title: BS in Geographic Science
+      institution: East China Normal University, Shanghai, China
+      year: 2015–2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant (PI: Esther Rolf)
+      institution: Department of Computer Science, University of Colorado Boulder
+      year: 2025–present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Physics-informed location encoders and foundation models for environmental applications
+    - title: Graduate Research Assistant
+      institution: Department of Geography & National Jewish Health, University of Colorado Boulder
+      year: 2022–2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Air-pollution exposure modeling and epidemiological applications
+        - Collaborators: James L. Crooks, Morteza Karimzadeh
+    - title: Graduate Teaching Assistant
+      institution: Department of Geography, University of Colorado Boulder
+      year: 2021–2025
       description:
+        - Courses: GEOG 5100 (Machine Learning & Spatial Data), GEOG 3023 (Statistics & Geographic Data),
+          GEOG 4043/5043 (Advanced Geovisualization & Web Mapping)
+    - title: Graduate Research Assistant
+      institution: Spatial Sciences Institute & Viterbi School of Engineering, University of Southern California
+      year: 2020–2021
+      description:
+        - COVID-19 modeling and spatial analysis with Orhun Aydin
+    - title: Undergraduate Research Assistant
+      institution: School of Geographic Sciences, East China Normal University
+      year: 2017–2019
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Awards, Fellowships & Grants
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2025
       items:
-        - Description 1.
-        - Description 2.
+        - UCGIS CyberTraining Workshop Travel Award, CyberTraining for Disaster Management Network (NSF Award #2321069), University Consortium for Geographic Information Science
+    - year: 2024
+      items:
+        - James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder
+        - GPSG Travel Grant, Graduate & Professional Student Government, University of Colorado Boulder
+    - year: 2023
+      items:
+        - James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder
+    - year: 2021
+      items:
+        - Inductee, Nu Theta Chapter, Gamma Theta Upsilon Honor Society, University of Southern California
+    - year: 2018
+      items:
+        - Shanghai Municipal Government Scholarship (Top 1%), Shanghai Municipal Education Commission
+    - year: 2016
+      items:
+        - Mingde Scholarship, China Soong Ching Ling Foundation
 
-- title: Other Interests
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant, GEOG 3023 – Statistics and Geographic Data
+      institution: Department of Geography, University of Colorado Boulder
+      year: Spring 2025, Spring 2024
+    - title: Teaching Assistant, GEOG 5100 – Special Topics: Machine Learning & Spatial Data
+      institution: Department of Geography, University of Colorado Boulder
+      year: Fall 2024
+    - title: Teaching Assistant, GEOG 4043/5043 – Advanced Geovisualization & Web Mapping
+      institution: Department of Geography, University of Colorado Boulder
+      year: Fall 2021
+
+- title: Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Peer reviewer for Scientific Reports, Humanities and Social Sciences Communications, and BMC Public Health

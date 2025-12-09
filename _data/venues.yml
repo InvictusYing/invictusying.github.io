@@ -4,3 +4,35 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"IJGIS":
+  url: https://www.tandfonline.com/journals/tgis20
+  color: "#1b9e77"
+
+"GISciRS":
+  url: https://www.tandfonline.com/journals/tgrs20
+  color: "#d95f02"
+
+"RS":
+  url: https://www.mdpi.com/journal/remotesensing
+  color: "#7570b3"
+
+"EnvironRes":
+  url: https://www.journals.elsevier.com/environmental-research
+  color: "#e7298a"
+
+"SciData":
+  url: https://www.nature.com/sdata/
+  color: "#66a61e"
+
+"IGARSS":
+  url: https://www.grss-ieee.org/conferences/
+  color: "#e6ab02"
+
+"SIGSPATIAL":
+  url: https://www.sigspatial.org/
+  color: "#a6761d"
+
+"medRxiv":
+  url: https://www.medrxiv.org/
+  color: "#666666"
