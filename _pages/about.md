@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 😃
 
-My name is Zhongying and I’m a second-year PhD student in the Department of Geography at CU Boulder, supervised by Prof. [Morteza Karimzadeh][mk] at the GeoHAI Lab. My work lies at the intersection of AI and Geography (GeoAI). My current research focus on (1) Deep learning-based infectious disease forecasting, and (2) Air pollution Downscaling. 
+My name is Zhongying and I am a fifth-year PhD candidate in Geography at the University of Colorado Boulder, supervised by Prof. [Morteza Karimzadeh][mk] at the GeoHAI Lab. My work lies at the intersection of AI and Geography (GeoAI). My research focuses on **GeoAI methods for environmental health and public health applications**. In particular, I work on high-resolution air pollution estimation using satellite, ground and simulation data; spatiotemporal deep learning and data fusion for geospatial prediction; and geospatial foundation models and pretrained location encoders.
 
 
 [mk]: https://www.colorado.edu/geography/morteza-karimzadeh
