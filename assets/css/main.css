@@ -916,5 +916,16 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+/* Make venue badge text readable in both light and dark themes */
+ol.bibliography li .badge,
+ol.bibliography li .badge a {
+  color: #ffffff !important;
+}
+
+ol.bibliography li .badge a:hover,
+ol.bibliography li .badge a:focus {
+  color: #ffffff !important;
+  text-decoration: underline; /* optional hover feedback */
+}
 
 /*# sourceMappingURL=main.css.map */
