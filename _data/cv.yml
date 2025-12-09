@@ -2,110 +2,117 @@
   type: map
   contents:
     - name: Full Name
-      value: Zhongying Wang
+      value: "Zhongying Wang"
     - name: Position
-      value: PhD Candidate in Geography
+      value: "PhD Candidate in Geography"
     - name: Affiliation
-      value: Department of Geography, University of Colorado Boulder
+      value: "Department of Geography, University of Colorado Boulder"
     - name: Address
       value: "GUGG 7, 260 UCB, Boulder, CO 80309, USA"
     - name: Email
       value: "Zhongying.Wang@colorado.edu"
+    - name: Website
+      value: "https://zhongying.fyi/"
     - name: Phone
       value: "+1 213-281-2483"
 
 - title: Research Interests
   type: list
   contents:
-    - GeoAI methods for environmental and public-health applications
-    - High-resolution air-pollution estimation using satellite, ground, and chemical-transport model data
-    - Spatiotemporal deep learning and data fusion for geospatial prediction
-    - Geospatial foundation models and pretrained location encoders
+    - "GeoAI methods for environmental and public-health applications"
+    - "High-resolution air-pollution estimation using satellite, ground, and chemical-transport model data"
+    - "Spatiotemporal deep learning and data fusion for geospatial prediction"
+    - "Geospatial foundation models and pretrained location encoders"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Geography
-      institution: University of Colorado Boulder, Boulder, CO, USA
-      year: 2021–present
+    - title: "PhD in Geography"
+      institution: "University of Colorado Boulder, Boulder, CO, USA"
+      year: "2021–present"
       description:
-        - Advisor: Morteza Karimzadeh
-        - Dissertation focus on GeoAI-enhanced spatiotemporal modeling in public health
-    - title: MS in Spatial Data Science
-      institution: University of Southern California, Los Angeles, CA, USA
-      year: 2019–2021
+        - "Advisor: Morteza Karimzadeh"
+        - "Dissertation focus on GeoAI-enhanced spatiotemporal modeling in public health"
+    - title: "MS in Spatial Data Science"
+      institution: "University of Southern California, Los Angeles, CA, USA"
+      year: "2019–2021"
       description:
-        - Research advisor: Orhun Aydin
-    - title: BS in Geographic Science
-      institution: East China Normal University, Shanghai, China
-      year: 2015–2019
+        - "Research advisor: Orhun Aydin"
+    - title: "BS in Geographic Science"
+      institution: "East China Normal University, Shanghai, China"
+      year: "2015–2019"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant (PI: Esther Rolf)
-      institution: Department of Computer Science, University of Colorado Boulder
-      year: 2025–present
+    - title: "Graduate Research Assistant (PI: Esther Rolf)"
+      institution: "Department of Computer Science, University of Colorado Boulder"
+      year: "2025–present"
       description:
-        - Physics-informed location encoders and foundation models for environmental applications
-    - title: Graduate Research Assistant
-      institution: Department of Geography & National Jewish Health, University of Colorado Boulder
-      year: 2022–2024
+        - "Physics-informed location encoders and foundation models for environmental applications"
+    - title: "Graduate Research Assistant"
+      institution: "Department of Geography & National Jewish Health, University of Colorado Boulder"
+      year: "2022–2024"
       description:
-        - Air-pollution exposure modeling and epidemiological applications
-        - Collaborators: James L. Crooks, Morteza Karimzadeh
-    - title: Graduate Teaching Assistant
-      institution: Department of Geography, University of Colorado Boulder
-      year: 2021–2025
+        - "Air-pollution exposure modeling and epidemiological applications"
+        - "Collaborators: James L. Crooks, Morteza Karimzadeh"
+    - title: "Graduate Teaching Assistant"
+      institution: "Department of Geography, University of Colorado Boulder"
+      year: "2021–2025"
       description:
-        - Courses: GEOG 5100 (Machine Learning & Spatial Data), GEOG 3023 (Statistics & Geographic Data),
-          GEOG 4043/5043 (Advanced Geovisualization & Web Mapping)
-    - title: Graduate Research Assistant
-      institution: Spatial Sciences Institute & Viterbi School of Engineering, University of Southern California
-      year: 2020–2021
+        - "Courses: GEOG 5100 (Machine Learning & Spatial Data), GEOG 3023 (Statistics & Geographic Data), GEOG 4043/5043 (Advanced Geovisualization & Web Mapping)"
+    - title: "Graduate Research Assistant"
+      institution: "Spatial Sciences Institute & Viterbi School of Engineering, University of Southern California"
+      year: "2020–2021"
       description:
-        - COVID-19 modeling and spatial analysis with Orhun Aydin
-    - title: Undergraduate Research Assistant
-      institution: School of Geographic Sciences, East China Normal University
-      year: 2017–2019
+        - "COVID-19 modeling and spatial analysis with Orhun Aydin"
+    - title: "Undergraduate Research Assistant"
+      institution: "School of Geographic Sciences, East China Normal University"
+      year: "2017–2019"
 
 - title: Awards, Fellowships & Grants
   type: time_table
   contents:
-    - year: 2025
+    - year: "2025"
       items:
-        - UCGIS CyberTraining Workshop Travel Award, CyberTraining for Disaster Management Network (NSF Award #2321069), University Consortium for Geographic Information Science
-    - year: 2024
+        - "UCGIS CyberTraining Workshop Travel Award, CyberTraining for Disaster Management Network (NSF Award #2321069), University Consortium for Geographic Information Science"
+    - year: "2024"
       items:
-        - James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder
-        - GPSG Travel Grant, Graduate & Professional Student Government, University of Colorado Boulder
-    - year: 2023
+        - "James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder"
+        - "GPSG Travel Grant, Graduate & Professional Student Government, University of Colorado Boulder"
+    - year: "2023"
       items:
-        - James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder
-    - year: 2021
+        - "James A. and Jeanne B. DeSana Graduate Research Scholarship, Department of Geography, University of Colorado Boulder"
+    - year: "2021"
       items:
-        - Inductee, Nu Theta Chapter, Gamma Theta Upsilon Honor Society, University of Southern California
-    - year: 2018
+        - "Inductee, Nu Theta Chapter, Gamma Theta Upsilon Honor Society, University of Southern California"
+    - year: "2018"
       items:
-        - Shanghai Municipal Government Scholarship (Top 1%), Shanghai Municipal Education Commission
-    - year: 2016
+        - "Shanghai Municipal Government Scholarship (Top 1%), Shanghai Municipal Education Commission"
+    - year: "2016"
       items:
-        - Mingde Scholarship, China Soong Ching Ling Foundation
+        - "Mingde Scholarship, China Soong Ching Ling Foundation"
 
 - title: Teaching
   type: time_table
   contents:
-    - title: Teaching Assistant, GEOG 3023 – Statistics and Geographic Data
-      institution: Department of Geography, University of Colorado Boulder
-      year: Spring 2025, Spring 2024
-    - title: Teaching Assistant, GEOG 5100 – Special Topics: Machine Learning & Spatial Data
-      institution: Department of Geography, University of Colorado Boulder
-      year: Fall 2024
-    - title: Teaching Assistant, GEOG 4043/5043 – Advanced Geovisualization & Web Mapping
-      institution: Department of Geography, University of Colorado Boulder
-      year: Fall 2021
+    - title: "Teaching Assistant, GEOG 3023 – Statistics and Geographic Data"
+      institution: "Department of Geography, University of Colorado Boulder"
+      year: "Spring 2025, Spring 2024"
+      description:
+        - "Led labs and grading; supported students with statistical analysis in R and Python"
+    - title: "Teaching Assistant, GEOG 5100 – Special Topics: Machine Learning & Spatial Data"
+      institution: "Department of Geography, University of Colorado Boulder"
+      year: "Fall 2024"
+      description:
+        - "Assisted with labs on machine learning, GeoAI, and geospatial deep learning"
+    - title: "Teaching Assistant, GEOG 4043/5043 – Advanced Geovisualization & Web Mapping"
+      institution: "Department of Geography, University of Colorado Boulder"
+      year: "Fall 2021"
+      description:
+        - "Supported students in web mapping, visualization, and interactive cartography"
 
 - title: Service
   type: list
   contents:
-    - Peer reviewer for Scientific Reports, Humanities and Social Sciences Communications, and BMC Public Health
+    - "Peer reviewer for Scientific Reports, Humanities and Social Sciences Communications, and BMC Public Health"
