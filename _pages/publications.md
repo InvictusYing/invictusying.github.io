@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 # Include the years of publications that should be displayed on this page. The order
 # here controls the ordering in the rendered list. Add new years as you publish
 # new work.
-years: [2025, 2023, 2022, 2020]
+years: [2026, 2025, 2023, 2022, 2020]
 nav: true
 nav_order: 1
 ---

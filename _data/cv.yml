@@ -4,22 +4,23 @@
     - name: Full Name
       value: "Zhongying Wang"
     - name: Position
-      value: "PhD Candidate in Geography"
+      value: "Postdoctoral Associate"
     - name: Affiliation
-      value: "Department of Geography, University of Colorado Boulder"
+      value: "Earth Intelligence Lab, Department of Mechanical Engineering, Massachusetts Institute of Technology"
     - name: Address
-      value: "GUGG 7, 260 UCB, Boulder, CO 80309, USA"
+      value: "77 Massachusetts Avenue, Cambridge, MA 02139, USA"
     - name: Email
-      value: "Zhongying.Wang@colorado.edu"
+      value: "zywang16@mit.edu"
     - name: Website
-      value: "https://zhongying.fyi/"
+      value: "https://invictusying.github.io/"
     - name: Phone
       value: "+1 213-281-2483"
 
 - title: Research Interests
   type: list
   contents:
-    - "GeoAI methods for environmental and public-health applications"
+    - "GeoAI methods for environmental health, sustainable agriculture, and public health applications"
+    - "Soil organic carbon mapping using hyperspectral remote sensing and machine learning"
     - "High-resolution air-pollution estimation using satellite, ground, and chemical-transport model data"
     - "Spatiotemporal deep learning and data fusion for geospatial prediction"
     - "Geospatial foundation models and pretrained location encoders"
@@ -29,7 +30,7 @@
   contents:
     - title: "PhD in Geography"
       institution: "University of Colorado Boulder, Boulder, CO, USA"
-      year: "2021–present"
+      year: "2021–2026"
       description:
         - "Advisor: Morteza Karimzadeh"
         - "Dissertation focus on GeoAI-enhanced spatiotemporal modeling in public health"
@@ -45,9 +46,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: "Postdoctoral Associate (PI: Sherrie Wang)"
+      institution: "Earth Intelligence Lab, Department of Mechanical Engineering, Massachusetts Institute of Technology"
+      year: "2026–present"
     - title: "Graduate Research Assistant (PI: Esther Rolf)"
       institution: "Department of Computer Science, University of Colorado Boulder"
-      year: "2025–present"
+      year: "2025–2026"
       description:
         - "Physics-informed location encoders and foundation models for environmental applications"
     - title: "Graduate Research Assistant"
@@ -115,4 +119,4 @@
 - title: Service
   type: list
   contents:
-    - "Peer reviewer for Scientific Reports, Humanities and Social Sciences Communications, and BMC Public Health"
+    - "Peer reviewer for Scientific Reports, Humanities and Social Sciences Communications, BMC Public Health, International Journal of Health Geographics, and Frontiers in Artificial Intelligence"

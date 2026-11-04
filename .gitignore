@@ -9,3 +9,10 @@ _site
 Gemfile.lock
 vendor
 
+
+# Local-only files (not for the site)
+Claude outputs/
+assets/img/publication_preview/daily_pcl_embeddings_pca1_per_day_pca.gif
+assets/img/publication_preview/wang2026pcl.gif
+assets/img/publication_preview/pred_map_wildfire_revised2.png
+assets/img/publication_preview/pcl_diagram-1.png

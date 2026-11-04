@@ -36,3 +36,11 @@
 "medRxiv":
   url: https://www.medrxiv.org/
   color: "#666666"
+
+"CVPRW":
+  url: https://cvpr.thecvf.com/
+  color: "#1f78b4"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

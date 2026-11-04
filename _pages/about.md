@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.colorado.edu/geography/zhongying-stephen-wang'>PhD Student @ CU Boulder (Geography)</a>.
+subtitle: Postdoctoral Associate @ <a href='https://earthintelligence.mit.edu'>Earth Intelligence Lab</a>, MIT
 
 profile:
   align: right
@@ -18,7 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 😃
 
-My name is Zhongying and I am a fifth-year PhD candidate in Geography at the University of Colorado Boulder, supervised by Prof. [Morteza Karimzadeh][mk] at the GeoHAI Lab. My work lies at the intersection of AI and Geography (GeoAI). My research focuses on **GeoAI methods for environmental health and public health applications**. In particular, I work on high-resolution air pollution estimation using satellite, ground and simulation data; spatiotemporal deep learning and data fusion for geospatial prediction; and geospatial foundation models and pretrained location encoders.
+I'm Zhongying, a Postdoctoral Associate in the [Earth Intelligence Lab][eil] at MIT (Department of Mechanical Engineering), working with Prof. [Sherrie Wang][sw]. I build geospatial AI for Earth observation and environmental health. My current work includes **pretrained location encoders and geospatial foundation models**, **soil organic carbon mapping** from hyperspectral remote sensing, and **high-resolution air pollution estimation** from satellite, ground, and simulation data.
 
+I received my PhD in Geography from the University of Colorado Boulder in 2026, advised by Prof. [Morteza Karimzadeh][mk] in the [GeoHAI Lab][geohai]. Before that, I earned an MS in Spatial Data Science at the University of Southern California and a BS in Geographic Science at East China Normal University.
 
+[eil]: https://earthintelligence.mit.edu
+[sw]: https://sherriewang.github.io
 [mk]: https://www.colorado.edu/geography/morteza-karimzadeh
+[geohai]: https://geohai.org/
