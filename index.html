@@ -12,9 +12,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Zhongying (Stephen) Wang</title>
     <meta name="author" content="Zhongying  Wang">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+    <meta name="description" content="Zhongying Wang, Postdoctoral Associate at MIT. GeoAI, Earth observation, location encoders, and environmental health.
 ">
-    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+    <meta name="keywords" content="GeoAI, Earth observation, location encoders, remote sensing, air pollution, soil organic carbon">
 
 
     <!-- Bootstrap & MDB -->
@@ -82,6 +82,9 @@
                 <a class="nav-link" href="/publications/">publications</a>
               </li>
               <li class="nav-item ">
+                <a class="nav-link" href="/datasets/">datasets</a>
+              </li>
+              <li class="nav-item ">
                 <a class="nav-link" href="/cv/">cv</a>
               </li>
 
@@ -114,7 +117,7 @@
           <h1 class="post-title">
            Zhongying (Stephen) Wang
           </h1>
-          <p class="desc"><a href="https://www.colorado.edu/geography/zhongying-stephen-wang" rel="external nofollow noopener" target="_blank">PhD Student @ CU Boulder (Geography)</a>.</p>
+          <p class="desc">Postdoctoral Associate @ <a href="https://earthintelligence.mit.edu" rel="external nofollow noopener" target="_blank">Earth Intelligence Lab</a>, MIT</p>
         </header>
 
         <article>
@@ -141,7 +144,9 @@
           <div class="clearfix">
             <p>Hi there! 😃</p>
 
-<p>My name is Zhongying and I am a fifth-year PhD candidate in Geography at the University of Colorado Boulder, supervised by Prof. <a href="https://www.colorado.edu/geography/morteza-karimzadeh" rel="external nofollow noopener" target="_blank">Morteza Karimzadeh</a> at the GeoHAI Lab. My work lies at the intersection of AI and Geography (GeoAI). My research focuses on <strong>GeoAI methods for environmental health and public health applications</strong>. In particular, I work on high-resolution air pollution estimation using satellite, ground and simulation data; spatiotemporal deep learning and data fusion for geospatial prediction; and geospatial foundation models and pretrained location encoders.</p>
+<p>I’m Zhongying, a Postdoctoral Associate in the <a href="https://earthintelligence.mit.edu" rel="external nofollow noopener" target="_blank">Earth Intelligence Lab</a> at MIT (Department of Mechanical Engineering), working with Prof. <a href="https://sherriewang.github.io" rel="external nofollow noopener" target="_blank">Sherrie Wang</a>. I build geospatial AI for Earth observation and environmental health. My current work includes <strong>pretrained location encoders and geospatial foundation models</strong>, <strong>soil organic carbon mapping</strong> from hyperspectral remote sensing, and <strong>high-resolution air pollution estimation</strong> from satellite, ground, and simulation data.</p>
+
+<p>I received my PhD in Geography from the University of Colorado Boulder in 2026, advised by Prof. <a href="https://www.colorado.edu/geography/morteza-karimzadeh" rel="external nofollow noopener" target="_blank">Morteza Karimzadeh</a> in the <a href="https://geohai.org/" rel="external nofollow noopener" target="_blank">GeoHAI Lab</a>. Before that, I earned an MS in Spatial Data Science at the University of Southern California and a BS in Geographic Science at East China Normal University.</p>
 
 
           </div>
@@ -152,6 +157,41 @@
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
               
+                <tr>
+                  <th scope="row">Aug 15, 2026</th>
+                  <td>
+                    New preprint: <a href="https://arxiv.org/abs/2608.06612" rel="external nofollow noopener" target="_blank">SLED: Scalable Location Encoding via Distillation</a>, led by Kevin Lane.
+
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">Jul 1, 2026</th>
+                  <td>
+                    Joined the <a href="https://earthintelligence.mit.edu" rel="external nofollow noopener" target="_blank">Earth Intelligence Lab</a> at MIT as a Postdoctoral Associate with Prof. Sherrie Wang. <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20">
+
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">Jun 4, 2026</th>
+                  <td>
+                    Presented our <a href="https://arxiv.org/abs/2604.18881" rel="external nofollow noopener" target="_blank">Proxy Consistency Loss</a> paper at the CVPR 2026 EarthVision Workshop in Denver.
+
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">May 26, 2026</th>
+                  <td>
+                    Released our <a href="/datasets/">1 km daily PM<sub>2.5</sub> dataset for the contiguous US (2005–2021)</a> on Zenodo. <img class="emoji" title=":earth_americas:" alt=":earth_americas:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" height="20" width="20">
+
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row">May 1, 2026</th>
+                  <td>
+                    Completed my PhD in Geography at CU Boulder! <img class="emoji" title=":mortar_board:" alt=":mortar_board:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" height="20" width="20">
+
+                  </td>
+                </tr>
                 <tr>
                   <th scope="row">Apr 3, 2023</th>
                   <td>
@@ -167,12 +207,6 @@
 
                   </td>
                 </tr>
-                <tr>
-                  <th scope="row">Nov 7, 2015</th>
-                  <td>
-                    <a class="news-title" href="/news/announcement_2/">A long announcement with details</a>
-                  </td>
-                </tr>
               </table>
             </div>
           </div>
@@ -185,6 +219,132 @@
           <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
           <div class="publications">
             <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview">
+<abbr class="badge" style="background-color:#1f78b4">
+                <a href="https://cvpr.thecvf.com/" rel="external nofollow noopener" target="_blank">CVPRW</a>
+              </abbr><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/pcl_embeddings.gif-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/pcl_embeddings.gif-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/pcl_embeddings.gif-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/pcl_embeddings.gif" class="preview z-depth-1 rounded" width="auto" height="auto" alt="pcl_embeddings.gif" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="wang2026pcl" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A Proxy Consistency Loss for Grounded Fusion of Earth Observation and Location Encoders</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Zhongying Wang, Kevin Lane, Levi Cai, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Morteza Karimzadeh, Esther Rolf' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</em>, 2026
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="http://arxiv.org/abs/2604.18881" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://arxiv.org/abs/2604.18881" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#b31b1b">
+                <a href="https://arxiv.org/" rel="external nofollow noopener" target="_blank">arXiv</a>
+              </abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="lane2026sled" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">SLED: Scalable Location Encoding via Distillation</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Kevin Lane, Zhongying Wang, Esther Rolf, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Morteza Karimzadeh' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2608.06612</em>, 2026
+        </div>
+        <div class="periodical">
+          Submitted to AAAI 2027
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="http://arxiv.org/abs/2608.06612" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+            <a href="https://arxiv.org/abs/2608.06612" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
@@ -363,7 +523,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/publication_preview/wang2025pm25.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="wang2025pm25.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/publication_preview/wang2025pm25.jpg" class="preview z-depth-1 rounded" width="auto" height="auto" alt="wang2025pm25.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -405,6 +565,8 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+            <a href="https://github.com/geohai/pm2.5_conus_lstm" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+            <a href="https://invictusying.github.io/datasets/" class="btn btn-sm z-depth-0" role="button">Website</a>
           </div>
           
           <div class="badges">
@@ -532,7 +694,7 @@
           <!-- Social -->
             <div class="social">
               <div class="contact-icons">
-                <a href="mailto:%5A%68%6F%6E%67%79%69%6E%67.%57%61%6E%67@%63%6F%6C%6F%72%61%64%6F.%65%64%75" title="email"><i class="fas fa-envelope"></i></a>
+                <a href="mailto:%7A%79%77%61%6E%67%31%36@%6D%69%74.%65%64%75" title="email"><i class="fas fa-envelope"></i></a>
             <a href="https://scholar.google.com/citations?user=AIE3aVIAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
             <a href="https://github.com/InvictusYing" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/stephen-zhongying-wang-a02377158" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -556,7 +718,7 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2025 Zhongying  Wang. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>.
+        © Copyright 2026 Zhongying  Wang. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
 
       </div>
     </footer>
